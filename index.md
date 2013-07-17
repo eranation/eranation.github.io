@@ -32,7 +32,7 @@ When you don't need the samples anymore just delete the `_posts/core-samples` fo
 
 Here's a sample "posts list".
  -->
-
+ 
 <div class="hero-unit">
   <h1>Coming Soon</h1>
   <p>
